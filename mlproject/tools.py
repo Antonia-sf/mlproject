@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-#-*- coding: utf-8 -*-
 
 import argparse
 from math import radians, cos, sin, asin, sqrt
